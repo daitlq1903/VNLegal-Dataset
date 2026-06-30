@@ -18,7 +18,7 @@ VNLegal-Dataset/
 │   ├── evaluate_citer.py      
 │   └── ...                        
 └── README.md
-
+```
 
 ## 🚀 How to Run the Code (Execution Instructions)
 
