@@ -7,14 +7,14 @@
 ```text
 VNLegal-Dataset/
 ├── data/
-│   ├── sample_data           
+│   ├── ContinueTraining           
 │   ├── VNCivil-Pref           
 │   ├── VNCivil-SFT    
 │   ├── cite_evidence
-│   └── ...                   (To be released) 
+│   └── ...                    
 ├── script/
 │   ├── drl_model.py  
-│   ├── generate_evol_data.py (To be released)       
-│   ├── evaluate_citer.py     (To be released) 
-│   └── ...                   (To be released)     
+│   ├── generate_evol_data.py        
+│   ├── evaluate_citer.py      
+│   └── ...                        
 └── README.md
